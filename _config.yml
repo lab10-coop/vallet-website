@@ -1,1 +1,24 @@
-theme: jekyll-theme-cayman
+# Site settings
+title: Vallet - official website
+email: rmi@lab10.coop
+description: Vallet
+
+baseurl: "" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
+url: "https://lab10-coop.github.io/vallet-website" # the base hostname & protocol for your site
+
+# Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
+social:
+  - title: twitter
+    url: https://twitter.com/lab10collective
+  - title: github
+    url: https://github.com/lab10-coop/vallet-website
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+gems: [jekyll-paginate, jekyll-feed]
+# Build settings
