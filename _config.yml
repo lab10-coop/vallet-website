@@ -3,7 +3,7 @@ title: Vallet - official website
 email: rmi@lab10.coop
 description: Vallet
 
-baseurl: "/vallet-website/" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
+baseurl: "/vallet-website" # the subpath of your site, e.g. /blog/ (If you use organization leave empty)
 url: "https://lab10-coop.github.io/" # the base hostname & protocol for your site
 
 # Social networks usernames (many more available: flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.) see all icon at fontawesome.io
